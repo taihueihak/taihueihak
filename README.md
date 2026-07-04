@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HAK TAI HUEI</h1>
-<h3 align="center">A YEAR 2 GRAPHIC AND MULTIMEDIA STUDENT FROM UTM SKUDAI</h3>
+<h3 align="center">A YEAR 4 GRAPHIC AND MULTIMEDIA STUDENT FROM UTM SKUDAI</h3>
 
 - 🌱 I’m currently learning **GRAPHIC AND MULTIMEDIA**
 
